@@ -1,0 +1,2 @@
+# Gerenciar-empr-stimos-de-livros-para-Centro-Esp-rita
+Ferramenta digital desenvolvida para facilitar a gestão de acervo em uma biblioteca. O sistema permite o gerenciamento completo de Livros, Usuários e Empréstimos , oferecendo uma interface intuitiva e utilizando o SQLite  para garantir a integridade dos dados. Projeto realizado no âmbito da Atividade Extensionista do curso de Análise de Sistemas
